@@ -1,0 +1,27 @@
+{
+  "name": "opath",
+  "version": "1.0.0",
+  "description": "get value from an object by string path",
+  "main": "OPath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baikaishuixyz/OPath.git"
+  },
+  "keywords": [
+    "string",
+    "path",
+    "object"
+  ],
+  "author": "litingting0710@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baikaishuixyz/OPath/issues"
+  },
+  "homepage": "https://github.com/baikaishuixyz/OPath#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
